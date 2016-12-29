@@ -3,7 +3,7 @@ Contributors: codeparrots, eherman24
 Tags: timeline, express, addon, add, on, html, excerpts, shortcode, parameter, time, line, timeline express
 Plugin URI: https://www.wp-timelineexpress.com
 Requires at least: WP 4.0 & Timeline Express 1.2
-Tested up to: 4.6.1
+Tested up to: 4.7
 Stable tag: 1.0.0
 License: GPLv2 or later
 
