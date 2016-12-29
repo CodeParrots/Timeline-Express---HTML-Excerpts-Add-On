@@ -1,7 +1,7 @@
 <?php
 /**
 #_________________________________________________ PLUGIN
-Plugin Name: Timeline Express - HTML Excerpts Add-on
+Plugin Name: Timeline Express - HTML Excerpts Add-On
 Plugin URI: https://www.wp-timelineexpress.com
 Description: Enable new HTML excerpt fields on the Timeline Express announcements.
 Version: 1.0.0

@@ -1,4 +1,4 @@
-=== Timeline Express HTML Excerpts Add-on ===
+=== Timeline Express - HTML Excerpts Add-On ===
 Contributors: codeparrots, eherman24
 Tags: timeline, express, addon, add, on, html, excerpts, shortcode, parameter, time, line, timeline express
 Plugin URI: https://www.wp-timelineexpress.com
@@ -15,11 +15,12 @@ The Timeline Express HTML Excerpts add-on will create a new WYSIWYG metabox on T
 be used to generate a custom excerpt for your announcements. The new WYSIWYG custom excerpt field allows for HTML to be used in announcement excerpts,
 and has no limit to the length.
 
-Features:
-* Enable a new 'Announcement Custom Excerpt' field.
-* Use HTML markup in your announcements without it being stripped.
-* Display images, videos etc. in announcement excerpts on the timeline.
-* No limit to the length of the HTML excerpts.
+> Features:
+
+> * Enable a new 'Announcement Custom Excerpt' field.
+> * Use HTML markup in your announcements without it being stripped.
+> * Display images, videos etc. in announcement excerpts on the timeline.
+> * No limit to the length of the HTML excerpts.
 
 == Screenshots ==
 1. The new custom HTML excerpt field on the Timeline Express announcement posts.
