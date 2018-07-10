@@ -2,8 +2,8 @@
 
 **Tags:**              timeline, express, addon, add, on, html, excerpts, shortcode, parameter, time, line, timeline express <br />
 **Requires at least:** WordPress v4.2 <br />
-**Tested up to:**      WordPress v4.7 <br />
-**Stable tag:**        1.0.0 <br />
+**Tested up to:**      WordPress v4.9 <br />
+**Stable tag:**        1.1.0 <br />
 **License:**           GPLv2 or later <br />
 **License URI:**       [http://www.gnu.org/licenses/gpl-2.0.html](http://www.gnu.org/licenses/gpl-2.0.html)
 
@@ -22,3 +22,11 @@
 [Timeline Express - HTML Excerpts Add-On](https://wordpress.org/plugins/timeline-express-html-excerpt-add-on/) is a WordPress plugin that extends the base plugin, Timeline Express.
 
 The Timeline Express - HTML Excerpts Add-On enables a new custom field where users can specify a custom announcement excerpt independent of the auto generated excerpt that comes standard with Timeline Express. The new excerpt field allows for HTML to be entered into it, and will parse the HTML on the front end of the site - including images, shortcodes, YouTube embeds and more.
+
+## Changelog
+
+= 1.1.0 - September 20th, 2016 =
+* Ensure that images, videos get parsed in the custom excerpt. (Passing them through `the_content()` filter).
+
+= 1.0.0 - September 20th, 2016 =
+* Initial release of the HTML excerpts add-on for Timeline Express.

@@ -1,10 +1,10 @@
 <?php
 /**
 #_________________________________________________ PLUGIN
-Plugin Name: Timeline Express - HTML Excerpts Add-On
+Plugin Name: Timeline Express - HTML Excerpts Add-on
 Plugin URI: https://www.wp-timelineexpress.com
 Description: Enable new HTML excerpt fields on the Timeline Express announcements.
-Version: 1.0.0
+Version: 1.1.0
 Author: Code Parrots
 Text Domain: timeline-express-html-excerpts-add-on
 Author URI: http://www.codeparrots.com
@@ -115,7 +115,9 @@ function initialize_timeline_express_html_excerpts_addon() {
 			// If the new custom excerpt is set, return it.
 			if ( get_post_meta( $post_id, 'announcement_custom_excerpt', true ) ) {
 
-				return get_post_meta( $post_id, 'announcement_custom_excerpt', true );
+				echo apply_filters( 'the_content', get_post_meta( $post_id, 'announcement_custom_excerpt', true ) );
+
+				return;
 
 			}
 
