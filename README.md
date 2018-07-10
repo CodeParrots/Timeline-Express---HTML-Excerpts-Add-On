@@ -1,4 +1,4 @@
-# Timeline Express - HTML Excerpts Add-On v1.0.0
+# Timeline Express - HTML Excerpts Add-On v1.1.0
 
 **Tags:**              timeline, express, addon, add, on, html, excerpts, shortcode, parameter, time, line, timeline express <br />
 **Requires at least:** WordPress v4.2 <br />
